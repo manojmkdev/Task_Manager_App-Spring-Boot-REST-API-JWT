@@ -28,15 +28,8 @@ Maven
 
 📂 Project Structure
 
-src/main/java/com/example/taskmanager
- ├── config        # Security & Swagger configuration
- ├── controller    # REST Controllers
- ├── dto           # Request/Response DTOs
- ├── entity        # JPA Entities
- ├── repository    # JPA Repositories
- ├── security      # JWT utilities & filters
- ├── service       # Business logic
- └── StudentTaskManagerApplication.java
+<img width="802" height="341" alt="image" src="https://github.com/user-attachments/assets/7463615e-d24d-4c65-8c5f-72e98488dae1" />
+
 
 🔐 Authentication Flow (JWT)
 
