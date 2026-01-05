@@ -28,8 +28,7 @@ Maven
 
 📂 Project Structure
 
-<img width="802" height="341" alt="image" src="https://github.com/user-attachments/assets/7463615e-d24d-4c65-8c5f-72e98488dae1" />
-
+<img width="802" height="341" alt="image" src="https://github.com/user-attachments/assets/d7886827-f35f-4a95-a7cb-687476e95389" />
 
 🔐 Authentication Flow (JWT)
 
