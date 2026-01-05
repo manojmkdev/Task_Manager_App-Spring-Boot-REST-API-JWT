@@ -23,12 +23,7 @@ JWT (io.jsonwebtoken – JJWT)
 Spring Data JPA (Hibernate)
 MySQL
 Spring OpenAPI (Swagger)
-
 Maven
-
-📂 Project Structure
-
-<img width="802" height="341" alt="image" src="https://github.com/user-attachments/assets/d7886827-f35f-4a95-a7cb-687476e95389" />
 
 🔐 Authentication Flow (JWT)
 
